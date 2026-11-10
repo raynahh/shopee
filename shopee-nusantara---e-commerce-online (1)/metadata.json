@@ -1,0 +1,6 @@
+{
+  "name": "Shopee Nusantara - E-Commerce Online",
+  "description": "Aplikasi e-commerce modern mirip Shopee dengan promo banner slider, kategori lengkap, flash sale live timer, dan katalog produk terlaris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
